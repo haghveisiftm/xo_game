@@ -1,0 +1,15 @@
+.idea
+media
+*.pyc
+*.zip
+db.sqlite3
+.env
+.vscode
+*.sql
+*.log
+*.xlsx
+.DS_Store
+static
+/keys
+.venv
+cmake-bulid-debug

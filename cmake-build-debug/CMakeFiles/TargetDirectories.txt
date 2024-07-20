@@ -1,0 +1,3 @@
+C:/Users/fatemeh/CLionProjects/XO_Game/cmake-build-debug/CMakeFiles/XO_Game.dir
+C:/Users/fatemeh/CLionProjects/XO_Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fatemeh/CLionProjects/XO_Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
