@@ -7,6 +7,7 @@ char table[9] = {'1','2','3','4','5','6','7','8','9'};
 
 void line_table()
 {
+    //test
     cout<<endl;
     for(int i=0; i<=8; i++)
     {
